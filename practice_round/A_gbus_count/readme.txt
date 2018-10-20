@@ -6,3 +6,5 @@ there are two fies realated to this code you can find them below there in the re
 use command given below to run this programm and the output file will generated in in same folder:
 python gbus_count.py < A_small_practice.txt > output_file.txt   for the small file
 python gbus_count.py < A_large_practice.txt > output_file.txt   for the large one
+
+after running the  file and getting the output there below in the same repository you will find the answer for the both dataset and you can can tell them from there
