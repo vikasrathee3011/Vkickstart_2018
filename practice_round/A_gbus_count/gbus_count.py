@@ -1,4 +1,5 @@
-# please read the readme file to fully understand this programm and don't care about unfruit-full names of the varialbe, they are as it is as in question
+# please read the readme file to fully understand this programm
+# don't care about unfruit-full names of the varialbe, they are as it is as in question
 def Gbus_Count():
     T = int(input())                            # T test cases to entered
     for i in range(T):
