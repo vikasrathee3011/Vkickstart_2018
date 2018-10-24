@@ -1,4 +1,5 @@
 # please read the readme file to fully understand this programm
+# this problem looks like alternative of karnough mapping questions in digitial eletronics
 # don't care about unfruit-full names of the varialbe, they are as it is as in question
 
 def Scrambled():
