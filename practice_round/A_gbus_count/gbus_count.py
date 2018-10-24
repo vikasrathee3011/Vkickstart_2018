@@ -26,7 +26,7 @@ Gbus_Count()
 
 
 #   few important things are:
-#       here the time complexcity is order of n^2, "O(n^2)" if you can find the technique to decrease its time than you are welcome.
+#       here the time complexcity is order of TPN, "O(TPN)" if you can find the technique to decrease its time than you are welcome.
 #       as I have written this code for beginners, but have you think a little beyond it, here I have created a dictonary do you really need this,
 #       think of it. the solution is:
 
